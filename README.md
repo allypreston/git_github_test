@@ -16,4 +16,11 @@ Text that is cool
 to track files on git you need to
 - initiate Git using [git init]
 - add files to queue using [git add <file>]
-- push the files using [git commit -m "<message>"
+- push the files using [git commit -m <message>]
+
+#### create a repo on Github
+To create a repository on Github you need to
+- go onto Github
+- open repositories on your profile
+- click new repository
+- name new repository
