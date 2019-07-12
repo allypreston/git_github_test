@@ -1,17 +1,8 @@
-# h1 - Title
+#GIT_GITHUB
 
-Text that is cool
+Git and github documentation
 
-## h2 Todo
-
-- make a README.md file
-- document how to:
-  - how to track files on git
-  - create a repo on Github
-  - add a remote connection
-  - push to Github
-
-### h3 documentation
+###documentation
 #### track files on git
 To track files on git you need to
 - initiate Git using [git init]
@@ -34,4 +25,4 @@ To add a remote connection between your local on remote repositories you will ne
 #### push to Github
 To push a commit to Github you will need to
 - make a commit on the local repository
-- use the command [git push <remote repository> <local repository>]
+- use the command [git push <remote repository> <local repository
