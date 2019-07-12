@@ -1,8 +1,8 @@
-#GIT_GITHUB
+# GIT_GITHUB
 
 Git and github documentation
 
-###documentation
+### documentation
 #### track files on git
 To track files on git you need to
 - initiate Git using [git init]
